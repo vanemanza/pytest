@@ -1,6 +1,9 @@
 # Pytest
 
-Aprendiendo sobre test unitarios con Pytest, siguiendo la documentación -> https://docs.pytest.org/en/7.1.x/getting-started.html#getstarted
+Aprendiendo sobre tests unitarios con Pytest, 
+siguiendo la documentación de Pytest -> https://docs.pytest.org/en/7.1.x/getting-started.html#getstarted 
+y el video de **PyConAr 2020 - Unit Testing: Qué Testear y cómo Testear con PyTest
+Sofía Denner** de https://www.youtube.com/watch?v=E4Yc8dhM638&t=343s
 
 ## Fases de un test
 * Arrange : Preparación
